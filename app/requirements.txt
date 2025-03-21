@@ -1,1 +1,4 @@
-aiogram 
+aiogram
+google-generativeai
+pymupdf
+python-docx
