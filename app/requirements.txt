@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+google-generativeai
+aiogram==3.4.1
+fitz  # aka PyMuPDF
+python-docx
+aiohttp
